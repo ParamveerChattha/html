@@ -1,0 +1,30 @@
+.wrap {
+	width: 50%;
+	background-color:blue;
+	margin:auto;
+	min-width: 500px;
+
+}
+aside,.subblock{
+
+	float:left;
+	height:20%;
+	min-height:100px;
+
+}
+.subblock{
+	width : 70%;
+	background-color:orange ;
+
+}
+aside{
+	width:30%;
+	background-color:green;
+	padding-left:0
+
+}
+
+#links{
+	color:red;
+}
+

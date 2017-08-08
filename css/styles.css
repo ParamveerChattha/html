@@ -1,0 +1,11 @@
+
+div{
+	margin: auto;
+	width : 300px;
+	background:rbg(100,100,50);
+}
+a{
+	color:red;
+	text-decoration:none;
+
+}

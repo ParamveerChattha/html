@@ -1,0 +1,32 @@
+.wrap{
+width:100%;
+height:100%;
+position:relative;
+background:red;
+}
+.wrap1{
+
+	width:80%;
+	height:80%;
+	position:absolute;
+	left:125px;
+	top:50px;
+	background:blue;
+}
+.wrap2{
+	width:80%;
+	height:65%;
+	position:absolute;
+	left:100px;
+	top:100px;
+	background:#292929;
+}
+
+.wrap3{
+	width:75%;
+	height:50%;
+	position:absolute;
+	left:100px;
+	top:100px;
+	background:#009876;
+}
